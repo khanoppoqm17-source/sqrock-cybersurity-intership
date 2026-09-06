@@ -1,0 +1,6 @@
+timestamp: 2026-09-06 11:57:22.851383
+hostname: DESKTOP-KIGAG5M
+os: Windows
+version: 10.0.19045
+user: Lenovo
+cwd: c:\Users\Lenovo\OneDrive\Desktop\SQRock Intern 15 Tasks
